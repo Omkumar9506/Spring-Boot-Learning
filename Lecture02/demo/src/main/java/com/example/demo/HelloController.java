@@ -32,4 +32,8 @@ public class HelloController {
         return "<h1>Welcome to our about page</h2>";
     }
 
+    @GetMapping("contact-us")
+    public String contactUs(){
+        return "<h1>Welcome to our contact us page</h1>";
+    }
 }
