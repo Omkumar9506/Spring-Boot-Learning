@@ -11,13 +11,6 @@
 
     <packaging>jar</packaging>
 
-<!--    <repositories>-->
-<!--        <repository>-->
-<!--            <id>company-repo</id>-->
-<!--            <url>http://repo.coderarmy.in/maven</url>-->
-<!--        </repository>-->
-<!--    </repositories>-->
-
     <dependencies>
         <dependency>
             <groupId>com.mysql</groupId>
