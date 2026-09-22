@@ -4,9 +4,9 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 //@Primary
-@Qualifier
+//@Qualifier
 public class UpiPayment implements PaymentService{
     @Override
     public void pay(){
